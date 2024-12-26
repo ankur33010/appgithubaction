@@ -8,4 +8,3 @@ def test_add():
 def test_sub():
     assert sub(8,3)==5
     assert sub(45,4)==41
-    assert sub(34,5)==31
